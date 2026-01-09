@@ -173,6 +173,9 @@ nav ul li a{
     padding: 100px 0px;
     border-radius: 12px;
 }
+.last-action h1{
+    font-size: 30px;
+}
 .btn-2{
     width: 165px;
     display: flex;
@@ -183,4 +186,20 @@ nav ul li a{
     color: white;
     font-size: 13px;
     margin-bottom: 15px;
+}
+.footer-container{
+    margin-top: 80px;
+    background-color: rgb(5, 5, 59);
+    padding-top: 80px;
+    color: white;
+}
+.footer-box{
+    display: flex;
+    justify-content: center;
+    gap: 800px;
+    margin-bottom: 20px;
+}
+.footer-box img{
+    width: 100px;
+    height: 50px;
 }
