@@ -68,7 +68,7 @@ nav ul li a{
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    padding: 150px;
+    padding: 120px 150px;
 }
 .banner-btn{
     justify-content: center;
@@ -81,7 +81,7 @@ nav ul li a{
     gap: 6px;
     background-color: rgb(219, 226, 219);
     width: 170px;
-    padding: 4px 6px;
+    padding: 6px;
     border-radius: 12px;
     color: rgb(3, 117, 37);
     margin: 0px auto;
@@ -115,6 +115,10 @@ nav ul li a{
     padding: 10px;   
     border-radius: 8px;
 }
+.banner-container .banner-box .banner-btn .btn-box2:hover{
+    cursor: pointer;
+    background-color:rgb(16, 194, 230) ;
+}
 .btn-box{
     gap: 5px;
 }
@@ -134,8 +138,8 @@ nav ul li a{
     margin-top: 60px;
 }
 .card{
-    width: 250px;
-    padding: 50px 15px;
+    width: 260px;
+    padding: 60px 15px;
     box-shadow: 2px 2px 8px rgb(207, 202, 202);
     text-align: center;
     border-radius: 5px;
@@ -149,7 +153,7 @@ nav ul li a{
 .cards{
     display: flex;
     justify-content: space-around;
-    margin: 40px 160px;
+    margin: 40px 280px;
 }
 .text-mark{
     display: flex;
@@ -181,7 +185,7 @@ nav ul li a{
 .last-action{
     width: 80%;
     margin: 0 auto;
-    background-color: rgb(235, 234, 233);
+    background-color: rgb(230, 231, 225);
     text-align: center;
     padding: 100px 0px;
     border-radius: 12px;
@@ -201,6 +205,7 @@ nav ul li a{
     margin-bottom: 15px;
 }
 .footer-container{
+    width: 100%;
     margin-top: 80px;
     background-color: rgb(5, 5, 59);
     padding-top: 80px;
