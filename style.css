@@ -165,3 +165,22 @@ nav ul li a{
 .text-mark p{
     font-size: 13px;
 }
+.last-action{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(235, 234, 233);
+    text-align: center;
+    padding: 100px 0px;
+    border-radius: 12px;
+}
+.btn-2{
+    width: 165px;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: white;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
