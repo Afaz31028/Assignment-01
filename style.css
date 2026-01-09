@@ -80,7 +80,7 @@ nav ul li a{
     justify-content: center;
     gap: 6px;
     background-color: rgb(219, 226, 219);
-    width: 180px;
+    width: 170px;
     padding: 4px 6px;
     border-radius: 12px;
     color: rgb(3, 117, 37);
@@ -111,8 +111,9 @@ nav ul li a{
     width: 130px;
     margin: 0 auto;
 }
-.banner-container .banner-box .banner-btn .btn-box{
+.banner-container .banner-box .banner-btn .btn-box2{
     padding: 10px;   
+    border-radius: 8px;
 }
 .btn-box{
     gap: 5px;
